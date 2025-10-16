@@ -502,7 +502,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- sunatillo - Initial work
 
 ## 🙏 Acknowledgments
 
@@ -513,7 +513,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@mediavault.com or open an issue on GitHub.
+For support, email sunatlohgafur1214@gmail.com or open an issue on GitHub.
 
 ## 🗺 Roadmap
 
@@ -528,4 +528,4 @@ For support, email support@mediavault.com or open an issue on GitHub.
 
 ---
 
-Made with ❤️ by the MediaVault Team
+Made with ❤️ by the sunatillo dev 
